@@ -1,0 +1,5 @@
+C:\Users\xapic\Desktop\python\Introduction_to_C#\leson6\Homework_6\Homework_6\homework2\obj\Debug\net6.0\homework2.csproj.AssemblyReference.cache
+C:\Users\xapic\Desktop\python\Introduction_to_C#\leson6\Homework_6\Homework_6\homework2\obj\Debug\net6.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xapic\Desktop\python\Introduction_to_C#\leson6\Homework_6\Homework_6\homework2\obj\Debug\net6.0\homework2.AssemblyInfoInputs.cache
+C:\Users\xapic\Desktop\python\Introduction_to_C#\leson6\Homework_6\Homework_6\homework2\obj\Debug\net6.0\homework2.AssemblyInfo.cs
+C:\Users\xapic\Desktop\python\Introduction_to_C#\leson6\Homework_6\Homework_6\homework2\obj\Debug\net6.0\homework2.csproj.CoreCompileInputs.cache
